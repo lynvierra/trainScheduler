@@ -18,3 +18,5 @@ The page will generate a record for it in the table, and tell you when the next 
 This project is maintained by Lyn Vierra
 
 If you need help with the page please contact lynvierra@gmail.com.
+
+https://lynvierra.github.io/trainScheduler/
